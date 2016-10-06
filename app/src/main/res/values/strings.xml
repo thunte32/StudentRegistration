@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Student Registration Form</string>
+    <string name="department">Department:</string>
+    <string name="sis">SIS</string>
+    <string name="cs">CS</string>
+    <string name="bio">BIO</string>
+    <string name="others">Others</string>
+    <string name="current_mood">Your current mood:</string>
+    <string name="submit">Submit</string>
+    <string name="student_info">Student Information</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="mood">Mood:</string>
+    <string name="edit">Edit Information</string>
+    <string name="save">Save</string>
+</resources>
